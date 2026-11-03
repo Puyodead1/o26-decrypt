@@ -95,6 +95,8 @@ eTokens lock themselves after too many wrong PINs, so the tool is careful:
 | `the dongle didn't unwrap the master key` | The dongle belongs to a different game or cabinet |
 | `file key 0 doesn't verify` | The `--master` key is wrong, or isn't for this install |
 
+Formats and internals: [docs/TECHNICAL.md](docs/TECHNICAL.md).
+
 ## Disclaimer
 
 For preserving a game you own, on hardware you own. Not affiliated with Konami or Disney. Don't share the decrypted
